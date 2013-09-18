@@ -1,0 +1,8 @@
+{
+  "name": "nodeschool",
+  "author": "Reza Akhavan",
+  "license": "BSD",
+  "dependencies": {
+    "bl": "~0.4.1"
+  }
+}
