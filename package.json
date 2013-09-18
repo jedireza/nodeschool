@@ -3,6 +3,7 @@
   "author": "Reza Akhavan",
   "license": "BSD",
   "dependencies": {
-    "bl": "~0.4.1"
+    "bl": "~0.4.1",
+    "moment": "~2.2.1"
   }
 }
