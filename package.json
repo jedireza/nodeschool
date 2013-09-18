@@ -4,6 +4,7 @@
   "license": "BSD",
   "dependencies": {
     "bl": "~0.4.1",
-    "moment": "~2.2.1"
+    "moment": "~2.2.1",
+    "through2-map": "~1.1.0"
   }
 }
