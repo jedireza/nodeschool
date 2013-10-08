@@ -10,6 +10,7 @@
     "split": "~0.2.10",
     "concat-stream": "~1.0.1",
     "request": "~2.27.0",
-    "websocket-stream": "~0.3.2"
+    "websocket-stream": "~0.3.2",
+    "trumpet": "~1.6.2"
   }
 }
