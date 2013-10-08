@@ -7,6 +7,7 @@
     "moment": "~2.2.1",
     "through2-map": "~1.1.0",
     "through": "~2.3.4",
-    "split": "~0.2.10"
+    "split": "~0.2.10",
+    "concat-stream": "~1.0.1"
   }
 }
