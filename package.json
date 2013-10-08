@@ -9,6 +9,7 @@
     "through": "~2.3.4",
     "split": "~0.2.10",
     "concat-stream": "~1.0.1",
-    "request": "~2.27.0"
+    "request": "~2.27.0",
+    "websocket-stream": "~0.3.2"
   }
 }
