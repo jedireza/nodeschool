@@ -13,6 +13,8 @@
     "websocket-stream": "~0.3.2",
     "trumpet": "~1.6.2",
     "tar": "~0.1.18",
-    "level": "~0.17.0"
+    "level": "~0.17.0",
+    "level-sublevel": "~5.1.1",
+    "multilevel": "~5.5.0"
   }
 }
