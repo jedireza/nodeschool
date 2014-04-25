@@ -4,4 +4,4 @@ var server = net.createServer(function (socket) {
   socket.write(moment().format('YYYY-MM-DD HH:mm') +'\n');
   socket.end();
 })
-server.listen(8000);
+server.listen(process.argv[2]);
