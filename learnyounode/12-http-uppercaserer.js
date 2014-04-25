@@ -12,4 +12,4 @@ var server = http.createServer(function (req, res) {
     res.end();
   }
 })
-server.listen(8000);
+server.listen(process.argv[2]);
