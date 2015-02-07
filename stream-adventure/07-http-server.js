@@ -9,4 +9,4 @@ var server = http.createServer(function (req, res) {
     req.pipe(tr).pipe(res);
   }
 });
-server.listen(8000);
+server.listen(process.argv[2]);

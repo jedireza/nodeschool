@@ -3,18 +3,18 @@
   "author": "Reza Akhavan",
   "license": "MIT",
   "dependencies": {
-    "bl": "~0.4.1",
-    "moment": "~2.2.1",
-    "through2-map": "~1.1.0",
+    "bl": "^0.4.2",
+    "moment": "^2.2.1",
+    "through2-map": "^1.1.0",
     "through": "~2.3.4",
-    "split": "~0.2.10",
-    "concat-stream": "~1.0.1",
-    "request": "~2.27.0",
-    "websocket-stream": "~0.3.2",
-    "trumpet": "~1.6.2",
-    "tar": "~0.1.18",
-    "level": "~0.17.0",
-    "level-sublevel": "~5.1.1",
-    "multilevel": "~5.5.0"
+    "split": "^0.2.10",
+    "concat-stream": "^1.0.1",
+    "request": "^2.27.0",
+    "websocket-stream": "^0.3.3",
+    "trumpet": "^1.6.3",
+    "tar": "^0.1.19",
+    "level": "^0.17.0",
+    "level-sublevel": "^5.1.1",
+    "multilevel": "^5.5.0"
   }
 }
