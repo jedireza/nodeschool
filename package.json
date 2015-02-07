@@ -4,11 +4,13 @@
   "license": "MIT",
   "scripts": {
     "javascripting": "javascripting",
-    "learnyounode": "learnyounode"
+    "learnyounode": "learnyounode",
+    "git-it": "git-it"
   },
   "dependencies": {
     "bl": "^0.4.2",
     "concat-stream": "^1.0.1",
+    "git-it": "^1.6.3",
     "javascripting": "^1.10.3",
     "learnyounode": "^2.3.3",
     "level": "^0.17.0",
