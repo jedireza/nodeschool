@@ -5,11 +5,13 @@
   "scripts": {
     "javascripting": "javascripting",
     "learnyounode": "learnyounode",
-    "git-it": "git-it"
+    "git-it": "git-it",
+    "stream-adventure": "stream-adventure"
   },
   "dependencies": {
     "bl": "^0.4.2",
     "concat-stream": "^1.0.1",
+    "duplexer": "^0.1.1",
     "git-it": "^1.6.3",
     "javascripting": "^1.10.3",
     "learnyounode": "^2.3.3",
@@ -19,6 +21,8 @@
     "multilevel": "^5.5.0",
     "request": "^2.27.0",
     "split": "^0.2.10",
+    "stream-adventure": "^2.5.1",
+    "stream-combiner": "^0.2.1",
     "tar": "^0.1.19",
     "through": "~2.3.4",
     "through2-map": "^1.1.0",
