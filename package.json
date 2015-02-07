@@ -3,12 +3,14 @@
   "author": "Reza Akhavan",
   "license": "MIT",
   "scripts": {
-    "javascripting": "javascripting"
+    "javascripting": "javascripting",
+    "learnyounode": "learnyounode"
   },
   "dependencies": {
     "bl": "^0.4.2",
     "concat-stream": "^1.0.1",
     "javascripting": "^1.10.3",
+    "learnyounode": "^2.3.3",
     "level": "^0.17.0",
     "level-sublevel": "^5.1.1",
     "moment": "^2.2.1",
