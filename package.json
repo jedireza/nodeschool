@@ -6,10 +6,12 @@
     "javascripting": "javascripting",
     "learnyounode": "learnyounode",
     "git-it": "git-it",
-    "stream-adventure": "stream-adventure"
+    "stream-adventure": "stream-adventure",
+    "bytewiser": "bytewiser"
   },
   "dependencies": {
     "bl": "^0.4.2",
+    "bytewiser": "^2.0.1",
     "concat-stream": "^1.0.1",
     "duplexer": "^0.1.1",
     "git-it": "^1.6.3",

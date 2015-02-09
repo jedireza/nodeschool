@@ -1,2 +1,2 @@
-var bytes = [0,15,24,3,250,83];
+var bytes = process.argv.slice(2);
 console.log(new Buffer(bytes).toString('hex'));
