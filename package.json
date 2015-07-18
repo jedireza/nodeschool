@@ -7,7 +7,8 @@
     "learnyounode": "learnyounode",
     "git-it": "git-it",
     "stream-adventure": "stream-adventure",
-    "bytewiser": "bytewiser"
+    "bytewiser": "bytewiser",
+    "scope-chains-closures": "scope-chains-closures"
   },
   "dependencies": {
     "bl": "^0.4.2",
@@ -22,6 +23,7 @@
     "moment": "^2.2.1",
     "multilevel": "^5.5.0",
     "request": "^2.27.0",
+    "scope-chains-closures": "^1.0.4",
     "split": "^0.2.10",
     "stream-adventure": "^2.5.1",
     "stream-combiner": "^0.2.1",
