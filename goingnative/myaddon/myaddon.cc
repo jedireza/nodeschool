@@ -2,13 +2,15 @@
 
 using namespace v8;
 
-NAN_METHOD(Print) {
-  printf("%s\n", *String::Utf8Value(args[0].As<String>()));
-  NanReturnUndefined();
+NAN_METHOD(Length) {
+  NanScope();
+  int len = strlen(*String::Utf8Value(args[0].As<String>()));
+  Local<Number> num = NanNew<Number>(len);
+  NanReturnValue(num);
 }
 
 void Init(Handle<Object> exports) {
-  exports->Set(NanNew("print"), NanNew<FunctionTemplate>(Print)->GetFunction());
+  exports->Set(NanNew("length"), NanNew<FunctionTemplate>(Length)->GetFunction());
 }
 
 NODE_MODULE(myaddon, Init);
