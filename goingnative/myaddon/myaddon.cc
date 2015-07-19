@@ -3,7 +3,7 @@
 using namespace v8;
 
 NAN_METHOD(Print) {
-  printf("I am a native addon and I AM ALIVE!\n");
+  printf("%s\n", *String::Utf8Value(args[0].As<String>()));
   NanReturnUndefined();
 }
 
